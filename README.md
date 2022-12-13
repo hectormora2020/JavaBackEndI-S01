@@ -2,11 +2,11 @@
 CONSTRUCCIÓN DE PROYECTOS CON MAVEN
 
 
-Objetivos:
+# OBJETIVOS
 - Crear un archivo de configuración de Maven desde cero.
 - Utilizar una dependencia de Maven.
 
-Checklist:
-a. Archivo de configuración pom.xml		
-b. Inclusión de un repositorio de git en el proyecto		
+# CHECKLIST
+a. Archivo de configuración pom.xml<br>
+b. Inclusión de un repositorio de git en el proyecto<br>
 c. Ejecución correcta de la dependencia gdx
